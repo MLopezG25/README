@@ -9,6 +9,17 @@
 
 
 <h1 align="center"> Mpv es un reproductor multimedia <i>libre y gratuito </i>, capaz de reproducir todo tipo de formatos de archivo</h1>
+---
+
+ ## 📑 Índice
+
+- [Características destacadas](#️-características-destacadas)
+- [Tecnologías utilizadas](#-tecnologías-utilizadas)
+- [Estado del proyecto](#-estado-del-proyecto)
+- [Acceso al Proyecto](#-acceso-al-proyecto)
+- [Personas Desarrolladoras del Proyecto](#-personas-desarrolladoras-del-proyecto)
+- [Personas Contribuyentes](#-personas-contribuyentes)
+- [Licencia](#-licencia)
 
 ---
 ## ⚙️ Características destacadas
@@ -17,13 +28,6 @@
 👁️ Salida de vídeo de alta calidad
 ⏲ Decodificación de vídeo por GPU
 🛠️ Desarrollo activo
-
----
-## 🔗 Acceso al Proyecto
-
-👉 [Repositorio oficial en GitHub](https://github.com/mpv-player/mpv)  <br>
-👉 [Sitio web oficial de MPV](https://mpv.io)
-
 
 ---
 ## 🧪 Tecnologías utilizadas <br>
@@ -45,6 +49,26 @@
 🔄 **En desarrollo activo**  
 MPV recibe actualizaciones frecuentes, mejoras en el rendimiento, nuevas funciones y correcciones de errores.  
 La comunidad contribuye activamente al proyecto.
+
+---
+
+## 🔗 Acceso al Proyecto
+
+👉 [Repositorio oficial en GitHub](https://github.com/mpv-player/mpv)  <br>
+👉 [Sitio web oficial de MPV](https://mpv.io)
+
+---
+## 👨‍💻 Personas Desarrolladoras del Proyecto
+
+MPV es desarrollado por una comunidad activa de colaboradores, entre los que destacan:
+
+• **wm4** – Mantenedor principal del proyecto, responsable de gran parte del núcleo y la dirección técnica.  
+• **Colaboradores de GitHub** – Desarrolladores que contribuyen con código, documentación, pruebas y mejoras continuas.  
+• **Usuarios avanzados** – Aportan scripts personalizados, reportes de errores y sugerencias que enriquecen el ecosistema de MPV.
+
+El desarrollo es abierto y transparente, con decisiones técnicas discutidas públicamente.  
+Puedes seguir la actividad del proyecto en el repositorio oficial:  
+🔗 [https://github.com/mpv-player/mpv](https://github.com/mpv-player/mpv)
 
 ---
 
