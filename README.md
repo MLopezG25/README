@@ -23,6 +23,7 @@
 📝 Escritura de scripts
 ▶️ Control en pantalla
 👁️ Salida de vídeo de alta calidad
+<br>
 ⏲ Decodificación de vídeo por GPU
 🛠️ Desarrollo activo
 
