@@ -13,13 +13,14 @@
 
 ## 📑 Índice
 
-- [Características destacadas](#️características-destacadas)
-- [Tecnologías utilizadas](#️tecnologías-utilizadas)
-- [Estado del proyecto](#️estado-del-proyecto)
-- [Acceso al Proyecto](#️acceso-al-proyecto)
-- [Personas Desarrolladoras del Proyecto](#️personas-desarrolladoras-del-proyecto)
-- [Personas Contribuyentes](#️personas-contribuyentes)
-- [Licencia](#️licencia)
+- [Características destacadas](#️-características-destacadas)
+- [Tecnologías utilizadas](#-tecnologías-utilizadas)
+- [Estado del proyecto](#-estado-del-proyecto)
+- [Acceso al Proyecto](#-acceso-al-proyecto)
+- [Personas Desarrolladoras del Proyecto](#-personas-desarrolladoras-del-proyecto)
+- [Personas Contribuyentes](#-personas-contribuyentes)
+- [Licencia](#-licencia)
+
 
 
 ---
@@ -31,7 +32,8 @@
 🛠️ Desarrollo activo
 
 ---
-## 🧪 Tecnologías utilizadas <br>
+## 🧪 Tecnologías utilizadas
+<br>
 • C / C++ Lenguaje principal del núcleo del reproductor. Se utiliza para desarrollo de alto rendimiento y control directo sobre el hardware.
 <br>
 • Lua Lenguaje de scripting ligero que permite personalizar el comportamiento del reproductor mediante scripts.
