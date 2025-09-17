@@ -1,14 +1,11 @@
 # MPV <img width="30" height="30" alt="mpv-logo-128-0baae5aa" src="https://github.com/user-attachments/assets/74db9dd8-6544-454b-8522-efb5d00518eb" />
 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/98e4e695-064b-4ae4-8be2-ac02788b1df4" width="500"/>
 </p>
-
 <p align="center">Interfaz del programa</p>
-
-
 <h1 align="center"> Mpv es un reproductor multimedia <i>libre y gratuito </i>, capaz de reproducir todo tipo de formatos de archivo</h1>
+
 ---
 
 ## 📑 Índice
@@ -20,8 +17,6 @@
 - [Personas Desarrolladoras del Proyecto](#-personas-desarrolladoras-del-proyecto)
 - [Personas Contribuyentes](#-personas-contribuyentes)
 - [Licencia](#-licencia)
-
-
 
 ---
 ## ⚙️ Características destacadas
@@ -79,9 +74,9 @@ Puedes seguir la actividad del proyecto en el repositorio oficial:
  <br>
 MPV es mantenido por una comunidad global de desarrolladores. Puedes ver la lista completa de contribuyentes en:
 
-##🔗 https://github.com/mpv-player/mpv/graphs/contributors
+🔗 https://github.com/mpv-player/mpv/graphs/contributors
 
 ---
 
 ## 📄 Licencia
-Este proyecto está bajo la licencia GPLv2. Consulta el archivo COPYING para más detalles.
+Este proyecto está bajo la [licencia GPLv2](https://github.com/mpv-player/mpv/blob/master/Copyright).  
