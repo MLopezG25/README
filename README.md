@@ -75,7 +75,8 @@ Puedes seguir la actividad del proyecto en el repositorio oficial:
 
 ---
 
- ## 🤝 Personas Contribuyentes <br>
+ ## 🤝 Personas Contribuyentes 
+ <br>
 MPV es mantenido por una comunidad global de desarrolladores. Puedes ver la lista completa de contribuyentes en:
 
 ##🔗 https://github.com/mpv-player/mpv/graphs/contributors
