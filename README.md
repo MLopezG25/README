@@ -11,15 +11,16 @@
 <h1 align="center"> Mpv es un reproductor multimedia <i>libre y gratuito </i>, capaz de reproducir todo tipo de formatos de archivo</h1>
 ---
 
- ## 📑 Índice
+## 📑 Índice
 
-- [Características destacadas](#️-características-destacadas)
-- [Tecnologías utilizadas](#-tecnologías-utilizadas)
-- [Estado del proyecto](#-estado-del-proyecto)
-- [Acceso al Proyecto](#-acceso-al-proyecto)
-- [Personas Desarrolladoras del Proyecto](#-personas-desarrolladoras-del-proyecto)
-- [Personas Contribuyentes](#-personas-contribuyentes)
-- [Licencia](#-licencia)
+- [Características destacadas](#️características-destacadas)
+- [Tecnologías utilizadas](#️tecnologías-utilizadas)
+- [Estado del proyecto](#️estado-del-proyecto)
+- [Acceso al Proyecto](#️acceso-al-proyecto)
+- [Personas Desarrolladoras del Proyecto](#️personas-desarrolladoras-del-proyecto)
+- [Personas Contribuyentes](#️personas-contribuyentes)
+- [Licencia](#️licencia)
+
 
 ---
 ## ⚙️ Características destacadas
